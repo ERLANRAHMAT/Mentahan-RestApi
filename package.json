@@ -1,11 +1,24 @@
 {
-  "name": "Template-Api",
-  "version": "1.0.0",
-  "description": "Free Sourcode",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "api-azami",
+  "version": "1.4.0",
+  "engines": {
+    "node": "16.13.0"
   },
+  "description": "My Rest Api",
+  "main": "node index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clicknetcafe/lann-api.git"
+  },
+  "keywords": [
+    "simple",
+    "api",
+    "rest",
+    "api"
+  ],
   "author": "KiZakiXD",
   "license": "ISC",
   "dependencies": {
