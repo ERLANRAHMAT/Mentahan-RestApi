@@ -1,7 +1,6 @@
 {
   "name": "api-azami",
   "version": "1.4.0"
-   },
   "description": "My Rest Api",
   "main": "node index.js",
   "scripts": {
